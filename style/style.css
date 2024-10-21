@@ -49,7 +49,7 @@ flex-direction: column;
     height: 150px;
 }
 #Card :hover{
-    transform: scale(1.15);
+    transform: scale(1.05);
 }
 .card{
     padding-bottom: 2px;
